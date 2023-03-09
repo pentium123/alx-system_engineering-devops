@@ -14,3 +14,5 @@ Moving file "betty" to my first directory folder
 
 Deleting file betty from my first directory folder 
 
+Deleting my first directory in tmp directory
+
