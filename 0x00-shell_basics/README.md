@@ -16,3 +16,5 @@ Deleting file betty from my first directory folder
 
 Deleting my first directory in tmp directory
 
+Changing from working directory to previous one
+
