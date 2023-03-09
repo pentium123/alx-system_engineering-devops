@@ -6,3 +6,5 @@ Changing working directory to user's home directory
 
 Displaying current directory content in long format
 
+Displaying contents including hidden files in long format
+
