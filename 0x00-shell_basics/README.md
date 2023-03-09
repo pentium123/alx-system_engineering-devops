@@ -19,3 +19,6 @@ Deleting my first directory in tmp directory
 Changing from working directory to previous one
 
 Listing all files in current directory, parent directory and boot directory in long format
+
+Printing type of file named "iamafile"
+
