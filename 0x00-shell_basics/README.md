@@ -8,3 +8,6 @@ Displaying current directory content in long format
 
 Displaying contents including hidden files in long format
 
+Display contents in long format, numerically and with hidden files
+
+
