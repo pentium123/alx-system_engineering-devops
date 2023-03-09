@@ -11,3 +11,6 @@ Displaying contents including hidden files in long format
 Display contents in long format, numerically and with hidden files
 
 Moving file "betty" to my first directory folder
+
+Deleting file betty from my first directory folder 
+
